@@ -1,2 +1,2 @@
 # DigitalClock
-Digital Clock using 8051 MCU
+Digital Clock built using 8051 MCU
